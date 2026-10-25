@@ -1,6 +1,6 @@
 ## Hi, I'm Kriti
 
-B.Tech CSE student at Graphic Era University, Dehradun (CGPA 8.46). I build full-stack applications with React,
+B.Tech CSE student at Graphic Era University, Dehradun . I build full-stack applications with React,
 FastAPI and PostgreSQL, and AI assistants that are measured on held-out data before I trust them.
 
 **Now:**
